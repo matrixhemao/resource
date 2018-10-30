@@ -9,7 +9,5 @@
 1. [一文看懂可验证随机函数VRF | 小明学习笔记](https://36kr.com/p/5156440.html)
 2. [以太坊研究 | 可验证延迟函数（VDF）介绍](https://mp.weixin.qq.com/s?__biz=MzU2MDE2MDU3Mg==&mid=2247488159&idx=1&sn=0b64bd01babffb4fd83589fd701cc0d0&chksm=fc0d18cccb7a91daa5a6799f577b8e71a7115e0a1b573f37a3e519a1036bf91712938933d7e2&mpshare=1&scene=1&srcid=1020sjAVReUcxpP9zt0t40WG#rd)
 3. [本体VRF代码](https://github.com/ontio/ontology-crypto/tree/master/vrf)
-##密码学
-1. [MATLAB-RSA加密算法及其MATLAB实现](https://blog.csdn.net/baidu_35692628/article/details/77679381)
 ## 分布式系统
 1. [微信自研生产级paxos类库PhxPaxos实现原理介绍](https://mp.weixin.qq.com/s?__biz=MzI4NDMyNTU2Mw==&mid=2247483695&idx=1&sn=91ea422913fc62579e020e941d1d059e#rd)
